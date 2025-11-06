@@ -1,0 +1,11 @@
+pytanie 1: metoda Dodaj przyjmuje dwa parametry i zwraca typ int
+
+pytanie 2: żeby nie można było jej zmienić z zewnątrz
+
+pytanie 3: 3
+
+pytanie 4: 0
+
+pytanie 5: 
+wywołanie: kalkulator.ResetujLicznik()
+po wywołaniu tej metody LiczbaOperacji przyjmie wartość 0
