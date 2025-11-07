@@ -1,0 +1,5 @@
+pytanie 1: operacje nie są wykonywane w klasie, przez co nie ma nimi kontroli, można zmieniać i przypisywać wartości bez kontrolowania ich; operacje i dane nie są ukrywane 
+
+pytanie 2: można przypisać nieodpowiednie wartości takie jak: ujemny lub nieprawdopodobny wiek, ujemna pensja
+
+pytanie 3: publiczne pola to zły pomysł, ponieważ każdy może modyfikować ich wartości i nie ma kontroli nad tym jakie dane są przypisywane
