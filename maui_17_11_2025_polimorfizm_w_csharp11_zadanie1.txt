@@ -1,0 +1,7 @@
+pytanie 1: kod jest długi nieczytelny, a gdy doda się kolejny typ loggera, kod będzie jeszcze dłuższy
+
+pytanie 2: ponieważ jest długi i bardziej podatny na błędy ze względu na dużo podobnych fragmentów kodu
+
+pytanie 3: można byłoby dodać jedną klasę, na której bazowałyby pozostałe co zwiększyłoby czytelność kodu
+
+pytanie 4: interfejs ILogger zawierałby metodę Loguj, a klasy LogujDoBazy, LogujNaKonsole i LogujDoPliku implementowałyby ten interfejs
