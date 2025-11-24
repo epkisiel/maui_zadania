@@ -1,0 +1,7 @@
+pytanie 1: kod sumuje wszystkie liczby w tablicy
+
+pytanie 2: w pętli for warunkiem nie powinno być i<=numbers.Length tylko i<numbers.Length, ponieważ wartością początkową i jest 0 a pętla musi się wykonywać tyle razy jaka jest długość tablicy
+
+pytanie 3: przy każdej zmianie wartości zmiennej total
+
+pytanie 4: na zmienne total oraz numbers[i]
