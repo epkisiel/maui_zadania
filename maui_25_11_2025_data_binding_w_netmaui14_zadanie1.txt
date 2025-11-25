@@ -1,0 +1,10 @@
+pytanie 1:
+Label: OneWay (wartość domyślna), ponieważ label tylko wyświetla dane
+Entry: TwoWay (wartość domyślna), ponieważ użytkownik może wprowadzać dane
+Stepper: TwoWay (wartość domyślna), ponieważ można wprowadzać dane
+
+pytanie 2: żeby zaktualizować wartość, która wyświetla się w Label, który wyświetla wartość TotalPrice
+
+pytanie 3: dane zostaną przesłane do żródła, gdzie setter sprawdza czy podana wartość jest inna od zapisanej, jeśli jest to ją zapisuje, a dane wracają do celu
+
+pytanie 4: nie, ponieważ jej wartość jest obliczana na podstawie dwóch innych właściwości
