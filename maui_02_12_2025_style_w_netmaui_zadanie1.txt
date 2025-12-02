@@ -1,0 +1,9 @@
+pytanie 1: implicit jest styl do Label nie zawierający x:Key, explicit styl do Button i Label które zawierają x:Key
+
+pytanie 2: Red
+
+pytanie 3: Domyślnego 
+
+pytanie 4: Nic bo kontrolki mają statyczne style
+
+pytanie 5: można; byłoby to konieczne gdyby style kontrolek miały się zmieniać dynamicznie, a nie przyjmować styl tylko na początku a potem się nie zmieniać
